@@ -1,0 +1,13 @@
+C:\Users\iliya.gavrilov\Desktop\HomeWork\Task_01\obj\Debug\netcoreapp5.0\Task_01.csprojAssemblyReference.cache
+C:\Users\iliya.gavrilov\Desktop\HomeWork\Task_01\obj\Debug\netcoreapp5.0\Task_01.AssemblyInfoInputs.cache
+C:\Users\iliya.gavrilov\Desktop\HomeWork\Task_01\obj\Debug\netcoreapp5.0\Task_01.AssemblyInfo.cs
+C:\Users\iliya.gavrilov\Desktop\HomeWork\Task_01\obj\Debug\netcoreapp5.0\Task_01.csproj.CoreCompileInputs.cache
+C:\Users\iliya.gavrilov\Desktop\HomeWork\Task_01\bin\Debug\netcoreapp5.0\Task_01.exe
+C:\Users\iliya.gavrilov\Desktop\HomeWork\Task_01\bin\Debug\netcoreapp5.0\Task_01.deps.json
+C:\Users\iliya.gavrilov\Desktop\HomeWork\Task_01\bin\Debug\netcoreapp5.0\Task_01.runtimeconfig.json
+C:\Users\iliya.gavrilov\Desktop\HomeWork\Task_01\bin\Debug\netcoreapp5.0\Task_01.runtimeconfig.dev.json
+C:\Users\iliya.gavrilov\Desktop\HomeWork\Task_01\bin\Debug\netcoreapp5.0\Task_01.dll
+C:\Users\iliya.gavrilov\Desktop\HomeWork\Task_01\bin\Debug\netcoreapp5.0\Task_01.pdb
+C:\Users\iliya.gavrilov\Desktop\HomeWork\Task_01\obj\Debug\netcoreapp5.0\Task_01.dll
+C:\Users\iliya.gavrilov\Desktop\HomeWork\Task_01\obj\Debug\netcoreapp5.0\Task_01.pdb
+C:\Users\iliya.gavrilov\Desktop\HomeWork\Task_01\obj\Debug\netcoreapp5.0\Task_01.genruntimeconfig.cache
